@@ -160,7 +160,7 @@ if __name__ == '__main__':
         #while True:
         #    if unix_timestamp() > time_end:
         #        break
-        #time.sleep(random_second())
+        time.sleep(random_second())
     try:
         main()
     finally:
